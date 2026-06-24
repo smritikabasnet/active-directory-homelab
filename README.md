@@ -3,6 +3,17 @@ Windows Server 2022 • Active Directory • DNS • DHCP • Group Policy • F
 ## Overview
 
 Built a Windows Server 2022 Active Directory environment in VirtualBox to simulate real-world IT Support and Helpdesk tasks.
+## Technologies Used
+
+- Windows Server 2022
+- Active Directory
+- DNS
+- DHCP
+- Group Policy
+- NTFS Permissions
+- SMB Shares
+- VirtualBox
+- Windows 11
 
 ## Project Objectives
 
@@ -74,8 +85,14 @@ This homelab was built to gain hands-on experience with common IT Support and He
 - SMB Shares
 - Windows Server Administration
 - IT Support Troubleshooting
-- 
+  
 ## Key Project Evidence
+- Password Reset Scenario
+- Account Lockout Scenario
+- Group Membership Management
+- Shared Folder Access Control
+- Group Policy Restriction Testing
+- Domain Join Verification
 ## Results
 
 Successfully built and administered a Windows Server 2022 Active Directory environment from scratch.
